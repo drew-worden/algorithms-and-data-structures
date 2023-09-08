@@ -14,6 +14,7 @@ Just some algorithms and data structure manipulation in a bunch of different lan
 -   Heap Sort Algorithm
 -   Selection Sort Algorithm
 - 	Merge Sort Algorithm
+- 	Quick Sort Algorithm
 
 ## Languages Covered
 
@@ -27,3 +28,4 @@ Just some algorithms and data structure manipulation in a bunch of different lan
 -   JavaScript
 - 	TypeScript
 -	Perl
+-	Ruby
