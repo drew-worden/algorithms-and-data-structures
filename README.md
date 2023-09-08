@@ -12,6 +12,7 @@ Just some algorithms and data structure manipulation in a bunch of different lan
 -   Z Algorithm
 -   Insertion Sort Algorithm
 -   Heap Sort Algorithm
+-   Selection Sort Algorithm
 
 ## Languages Covered
 
@@ -23,3 +24,4 @@ Just some algorithms and data structure manipulation in a bunch of different lan
 -   Haskell
 -   C++
 -   JavaScript
+- 	TypesScript
