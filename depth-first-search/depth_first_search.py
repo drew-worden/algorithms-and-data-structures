@@ -1,5 +1,5 @@
-# Implementation of the Depth First Search Algorithm in Python
-# by Drew Worden
+#Implementation of the Depth First Search Algorithm in Python
+#by Drew Worden
 
 graph = {
     "A": ["B", "G"],
