@@ -15,6 +15,7 @@ Just some algorithms and data structure manipulation in a bunch of different lan
 -   Selection Sort Algorithm
 - 	Merge Sort Algorithm
 - 	Quick Sort Algorithm
+-	Counting Sort Algorithm
 
 ## Languages Covered
 
@@ -29,3 +30,4 @@ Just some algorithms and data structure manipulation in a bunch of different lan
 - 	TypeScript
 -	Perl
 -	Ruby
+-   C#

@@ -1,3 +1,6 @@
+#Implementation of the Quick Sort Algorithm in Ruby
+#by Drew Worden
+
 def quick_sort(arr)
 	return arr if arr.length <= 1
   
