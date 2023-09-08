@@ -17,6 +17,7 @@ Just some algorithms and data structure manipulation in a bunch of different lan
 - 	Quick Sort Algorithm
 -	Counting Sort Algorithm
 - 	Bucket Sort Algorithm
+- 	Bubble Sort Algorithm
 
 ## Languages Covered
 
